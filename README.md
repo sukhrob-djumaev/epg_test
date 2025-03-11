@@ -51,10 +51,10 @@ The app follows an **offline-first strategy** with Hive for **local storage**:
 
 ## 📌 Features
 
-✔ **TV Channel List** → Displays all available channels.
-✔ **Programme Schedule** → View channel’s schedule per day.
-✔ **Offline Mode** → Cached data is available **without an internet connection**.
-✔ **Pull-to-Refresh** → Users can manually refresh data.
+✔ **TV Channel List** → Displays all available channels.  
+✔ **Programme Schedule** → View channel’s schedule per day.  
+✔ **Offline Mode** → Cached data is available **without an internet connection**.  
+✔ **Pull-to-Refresh** → Users can manually refresh data.  
 
 ---
 
@@ -75,7 +75,7 @@ View schedule **per channel** and **per day**.
 
 ✅ **Flutter** - UI Framework  
 ✅ **Riverpod** - State Management  
-✅ **AutoRoute** - Navigation
+✅ **AutoRoute** - Navigation  
 ✅ **Dio** - HTTP Client  
 ✅ **Hive** - Local Storage  
 ✅ **Freezed** - Data Model Generation  
